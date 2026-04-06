@@ -117,11 +117,12 @@ predict("I love this product!")
 
 ### Confusion Matrix
 
-(Add screenshot in /images folder)
+![Confusion Matrix](images/confusion matrix.png)
 
-### WordCloud
 
-(Add screenshot in /images folder)
+### Count plot
+![Count plot](images/count plot.png)
+
 
 ---
 
