@@ -117,11 +117,11 @@ predict("I love this product!")
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 
 ### Count plot
-![Count plot](images/count plot.png)
+![Count plot](images/count_plot.png)
 
 
 ---
